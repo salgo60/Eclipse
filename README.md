@@ -1,5 +1,5 @@
 # Eclipse
-Error eporting sleeping data see #1
+Error eporting sleeping data see [#1](https://github.com/salgo60/Eclipse/issues/1)
 * [links sleepdata missing](https://heartwatch.tantsissa.com/faq/sleep-data-missing)
  
 * [x] Go into the iPhone Settings app on your iPhone. Choose Privacy, Health. Press Eclipse and then press all categories off.
